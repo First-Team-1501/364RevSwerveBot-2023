@@ -1,0 +1,18 @@
+- Flash Roborio
+    - Install WPILIB game tools (look up 'wpilib getting started')
+    - use the ROBOIO flashing utility thingy to flash the roborio (should be 2023 v4.*)
+
+- Flash radio
+    - Install the radio configuration utility (same google)
+    - follow instructions on website to flash radio
+
+- Update Motor Controllers
+    - Install the Rev Hardware Client
+    - Use it to update sparkmaxes
+
+- Probably update the CTRE stuff
+    - Idk, google/ask chriss?
+
+- Try both the '364 swerve test' (old code) and the '364 rev swerve bot' (new code)
+  - probably new code first
+  
