@@ -1,14 +1,15 @@
 - Flash Roborio
-    - Install WPILIB game tools (look up 'wpilib getting started')
-    - use the ROBOIO flashing utility thingy to flash the roborio (should be 2023 v4.*)
+    - Install WPILIB game tools (look up 'wpilib getting started')  DONE
+    - use the ROBOIO flashing utility thingy to flash the roborio (should be 2023 v4.*) DONE
 
 - Flash radio
-    - Install the radio configuration utility (same google)
+    - Install the radio configuration utility (same google) DONE
     - follow instructions on website to flash radio
 
 - Update Motor Controllers
-    - Install the Rev Hardware Client
-    - Use it to update sparkmaxes
+    - Install the Rev Hardware Client   Maybe? Dunno. Gotta ask Chris
+    - Use it to update sparkmaxes   DONE
+- Update CanEncoders and pigeon
 
 - Probably update the CTRE stuff
     - Idk, google/ask chriss?
